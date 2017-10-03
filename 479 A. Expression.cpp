@@ -6,7 +6,6 @@
 // Copyright   : use it under your responsibility
 // Description : Hello World in C++, Ansi-style
 //status:accepted
-
 //============================================================================
 
 #include <iostream>
