@@ -1,3 +1,6 @@
+
+//problem link:http://codeforces.com/contest/266/problem/A
+//status:accpted
 #include <iostream>
 #include<string>
 using namespace std;
