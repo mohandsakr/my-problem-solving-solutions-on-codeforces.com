@@ -19,6 +19,18 @@ while(n>0){
 		lastbuy=current;
 	}
 }
+	
 cout<<current;
 	return 0;
+	
+	
+	
+	
+	
 }
+
+
+
+
+
+
