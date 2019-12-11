@@ -4,8 +4,6 @@ problem name:A. Ksenia and Pan Scales
 status:accepted
 author :mohand sakr
 
-
-
 */
 
 #include <iostream>
