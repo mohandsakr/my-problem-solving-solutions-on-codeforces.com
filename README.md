@@ -1,6 +1,5 @@
 # my-problem-solving-solutions-on-codeforces.com
-it is the codes and the link for the problem i solved and i solving i will update this frequently with my new solutions . Note that : it is not my coding style . the style may be not good that because of the contest and my trying to solve this fast . note also you will find the link of the question in the comments in the code . 
-feel free to conatact me mohandsakr69@gmail.com 
-if you see an error please notify me at mohandsakr69@gmail.com 
-and folow mym blog :https://mohandsakr.wordpress.com . for more solutions and expalinings.
-happy coding and good luck. mohand sakr.
+
+It is the code and the link for the problems I have solved. I will update this often with my new solutions.
+
+Note that it is not my coding style. The style may not be good because of the contest, and I am trying to solve this fast. You will find the link to the question in the comments of the code. Feel free to contact me at mohandsakr69@gmail.com. If you see an error, please let me know at mohandsakr69@gmail.com and follow my blog at https://mohandsakr.wordpress.com. for more solutions and explanations. Happy coding and good luck. Mohand sakr.
